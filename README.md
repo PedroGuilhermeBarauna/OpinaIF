@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-  Consiste em uma plataforma web para fazer pesquisas, por meio de formulários, voltado especificamente ao instituto federal.
+  Consiste em uma plataforma web para fazer pesquisas, por meio de formulários, voltado especificamente ao Instituto Federal.
 
 ## Por que ?
 
