@@ -10,9 +10,13 @@
   body {
   background-color: #DADADA;
   }
+<<<<<<< HEAD
   .ui.info.message {
     margin-top: 50px;
   }
+=======
+
+>>>>>>> f9a583356337d69b11e157dec6f84ba7578836f5
   .column {
   max-width: 400px;
   }
@@ -25,7 +29,14 @@
       <div class="column">
         <h2 class="ui teal image header">
         <div class="ui info message">
+<<<<<<< HEAD
             <label>Exponha sua opnião, diga o que você pensa; e participe na construção de um IFC melhor para todos !</label>
+=======
+            <label> De a sua opnião e participe na construção de um IFC melhor !</label>
+        </div>
+        <div class="content">
+          Faça login com a sua conta
+>>>>>>> f9a583356337d69b11e157dec6f84ba7578836f5
         </div>
         </h2>
         <form class="ui large form" action="../controller/ControladorUser.php?">
