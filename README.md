@@ -1,4 +1,4 @@
-# OpinaIF
+# OpinaIF (Em andamento)
 
 ## Sobre o projeto
 
